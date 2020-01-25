@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Infinite Repetition</string>
+    <string name="Dev_name">BartooDev</string>
+    <string name="Test">Test</string>
+    <string name="Button_Start">1000 najczęstszych słów</string>
+    <string name="Button_options">Options</string>
+    <string name="Button_Info">O Aplikacji</string>
+    <string name="ButtonAnswer">>></string>
+    <string name="TextView">TextView</string>
+    <string name="RevInfoBum">Rev α1.0</string>
+    <string name="CollSettings">Ustawienia własnej kolekcji</string>
+    <string name="QuestionTextView">QuestionTextView</string>
+    <string name="AnswerTextView">AnswerTextView</string>
+    <string name="insertDB_Question" />
+    <string name="Question">Question</string>
+    <string name="Answer">Answer</string>
+    <string name="Insert">Insert</string>
+    <string name="YourCollection">Własne kolekcja - Rozpocznij</string>
+</resources>
