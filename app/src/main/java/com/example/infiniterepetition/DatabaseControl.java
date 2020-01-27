@@ -44,14 +44,6 @@ public class DatabaseControl extends AppCompatActivity {
 
 
 
-    public void SelItem(View view){
-
-        dbEdit eddd = new dbEdit();
-       // eddd.displaysth();
-
-
-        Toast.makeText(this, eddd.displaysth(),Toast.LENGTH_SHORT).show();
-    }
 
 
 }
