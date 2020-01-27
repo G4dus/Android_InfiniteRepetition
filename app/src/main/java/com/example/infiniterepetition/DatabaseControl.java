@@ -40,7 +40,6 @@ public class DatabaseControl extends AppCompatActivity {
         String A = c.getString(c.getColumnIndex("Answer"));
 
 
-
     }
 
 
